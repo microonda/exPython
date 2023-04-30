@@ -1,0 +1,3 @@
+Quantidade de Acertos: 44
+Do total de 90 Questões
+Erros: 46
